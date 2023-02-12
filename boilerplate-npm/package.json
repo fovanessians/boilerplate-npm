@@ -1,7 +1,7 @@
 {
-	"author": "Frank Ovanessians",
-	
+		
 	"name": "fcc-learn-npm-package-json",
+	"author": "Frank Ovanessians",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
